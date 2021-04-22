@@ -7,9 +7,20 @@ body {
     margin: 0px;
     font-family: Arial, sans-serif;
 }
-header, section {
+header {
     padding: 20px;
+    text-align: center;
+    background: forestgreen;
+    font-weight: bold;
 }
+
+section {
+    padding: 20px;
+    text-align: right;
+    background: lightgray;
+    font-weight: lighter;
+}
+
 p, li {
     line-height: 1.5em;
 }
