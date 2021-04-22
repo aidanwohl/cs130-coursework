@@ -5,7 +5,8 @@
 
 body {
     margin: 0px;
-    font-family: Arial, sans-serif;
+    font-family: 'Tmes New Roman', Times, serif, sans-serif;
+    background-image: url('1650896.jpg');
 }
 header {
     padding: 20px;
@@ -16,7 +17,7 @@ header {
 
 section {
     padding: 20px;
-    text-align: right;
+    text-align: left;
     background: lightgray;
     font-weight: lighter;
 }
